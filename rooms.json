@@ -1,0 +1,53 @@
+[
+    {
+        "_id": 1,
+        "photos": [
+            "https://example.com/photo1.jpg",
+            "https://example.com/photo2.jpg"
+        ],
+        "number": "101",
+        "type": "Suite",
+        "amenities": [
+            "WiFi",
+            "TV",
+            "MiniBar"
+        ],
+        "price": 150.00,
+        "discount": 10
+    },
+    {
+        "_id": 2,
+        "photos": [
+            "https://example.com/photo3.jpg",
+            "https://example.com/photo4.jpg"
+        ],
+        "number": "102",
+        "type": "Suite Deluxe",
+        "amenities": [
+            "WiFi",
+            "TV",
+            "MiniBar",
+            "Jacuzzi"
+        ],
+        "price": 175.00,
+        "discount": 20
+    },
+    {
+        "_id": 3,
+        "photos": [
+            "https://example.com/photo5.jpg",
+            "https://example.com/photo6.jpg"
+        ],
+        "number": "103",
+        "type": "Suite Extra Deluxe",
+        "amenities": [
+            "WiFi",
+            "TV",
+            "MiniBar",
+            "Jacuzzi",
+            "Balcón"
+        ],
+        "price": 200.00,
+        "discount": 30
+    }
+]

@@ -1,6 +1,6 @@
 
 <?php
-echo "¡Hola, PHP en VS Code!";
+echo "Index1.php";
 
 $room1 = [
     "id" => 1,
