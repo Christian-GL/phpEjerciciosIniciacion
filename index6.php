@@ -1,6 +1,6 @@
 
 <?php
-echo "Index6.php<br>";
+echo "Index6.php";
 
 if (!isset($_GET['id'])) {
     die("Error: No se ha encontrado [ID] en la URL.");
